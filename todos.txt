@@ -1,0 +1,5 @@
+throw
+clean
+stop
+clear
+pause
