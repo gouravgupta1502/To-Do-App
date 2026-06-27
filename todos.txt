@@ -3,3 +3,5 @@ clean
 stop
 clear
 pause
+Get a car
+Hello python
