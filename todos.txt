@@ -1,7 +1,8 @@
-throw
-clean
+throw a car
+clean the code
 stop
-clear
+You can go
 pause
 Get a car
 Hello python
+Buy a book
