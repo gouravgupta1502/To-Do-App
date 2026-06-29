@@ -1,7 +1,6 @@
 throw a car
 clean the code
 stop
-You can go
 pause
 Get a car
 Hello python
